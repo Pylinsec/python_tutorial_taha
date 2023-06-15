@@ -59,4 +59,4 @@ while True:
     # print type speed 
     print_text(win,'Type Speed',150,(0,255,255),180,70)
 
-    pygame.display.update()        
+    pygame.display.update()
