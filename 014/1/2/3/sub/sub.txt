@@ -1,0 +1,3 @@
+this is sub.txt in sub directory					
+this is sub.txt in sub directory
+this is sub.txt in sub directory
